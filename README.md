@@ -1,12 +1,15 @@
-![Goutam Tiwari's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Goutam990&show_icons=true&theme=radical)
-
 <h1 align="center">Hi 👋, I'm Goutam Tiwari</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
-- 🔬 I’m currently working on **MERN Stack**
-- 🌱 I’m currently learning **Flutter**
-- 💻 All of my projects are available at [My Portfolio](https://frontend-seven-gold-19.vercel.app/)
-- 📧 How to reach me **goutamt64@gmail.com**
+## About Me  
+I'm a passionate and driven individual, eager to gain hands-on experience in the tech industry. Currently exploring internship opportunities, I'm excited to apply my skills in a dynamic environment where I can learn, grow, and contribute meaningfully.  
+
+With a strong enthusiasm for technology and problem-solving, I love exploring innovative solutions and finding ways to bridge the gap between tech and real-world applications. Open to new challenges, I’m always looking for opportunities to expand my knowledge and make an impact.  
+
+- 🔬 I’m currently working on **MERN Stack**  
+- 🌱 I’m currently learning **Flutter**  
+- 💻 All of my projects are available at [My Portfolio](https://frontend-seven-gold-19.vercel.app/)  
+- 📧 How to reach me **goutamt64@gmail.com**  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
