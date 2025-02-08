@@ -7,7 +7,6 @@ I'm a passionate and driven individual, eager to gain hands-on experience in the
 With a strong enthusiasm for technology and problem-solving, I love exploring innovative solutions and finding ways to bridge the gap between tech and real-world applications. Open to new challenges, I’m always looking for opportunities to expand my knowledge and make an impact.  
 
 - 🔬 I’m currently working on **MERN Stack**  
-- 🌱 I’m currently learning **Flutter**  
 - 💻 All of my projects are available at [My Portfolio](https://frontend-seven-gold-19.vercel.app/)  
 - 📧 How to reach me **goutamt64@gmail.com**  
 
