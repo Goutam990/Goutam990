@@ -13,7 +13,7 @@ I approach development with the same attention to detail and problem-solving min
 Feel free to connect with me if you'd like to collaborate or discuss innovative projects.
 
 - 🔬 I’m currently working on **MERN Stack**  
-- 💻 All of my projects are available at [My Portfolio](https://goutam-portfolio-react.vercel.app/)  
+- 💻 My portfolio [My Portfolio](https://goutam-portfolio-react.vercel.app/)  
 - 📧 How to reach me **goutamt64@gmail.com**  
 
 <h3 align="left">Connect with me:</h3>
