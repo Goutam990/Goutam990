@@ -2,9 +2,15 @@
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
 ## About Me  
-I'm a passionate and driven individual, eager to gain hands-on experience in the tech industry. Currently exploring internship opportunities, I'm excited to apply my skills in a dynamic environment where I can learn, grow, and contribute meaningfully.  
+I am a Computer Science student , with a solid foundation in web development and proficiency in Java and JavaScript . I am currently expanding my expertise by learning the MERN stack and enhancing my skills in tools like Tailwind CSS, React.js, and Node.js to develop dynamic web applications that are both functional and user-friendly. My skill set includes UI/UX design, and I am committed to delivering highly intuitive and responsive digital experiences.
 
-With a strong enthusiasm for technology and problem-solving, I love exploring innovative solutions and finding ways to bridge the gap between tech and real-world applications. Open to new challenges, I’m always looking for opportunities to expand my knowledge and make an impact.  
+As a fast learner and team leader, I thrive in collaborative environments and enjoy driving projects to successful outcomes. I’ve led multiple academic and internship projects, including Jiobasket , a grocery price comparison platform and MovieBuzz, a movie booking and information system built using full-stack technologies. These experiences have helped me sharpen my skills in frontend-backend integration, REST APIs, and project structuring.
+
+Outside of development, I’m passionate about karate, and I believe that discipline, focus, and consistency apply just as much in coding as they do in martial arts.
+
+I approach development with the same attention to detail and problem-solving mindset that I apply to everything I do. Just like a well-planned kata, coding requires structure, creativity, and a deep understanding of how each part connects to the whole. This mindset helps me stay focused on optimizing performance and writing clean, scalable code.
+
+Feel free to connect with me if you'd like to collaborate or discuss innovative projects.
 
 - 🔬 I’m currently working on **MERN Stack**  
 - 💻 All of my projects are available at [My Portfolio](https://goutam-portfolio-react.vercel.app/)  
