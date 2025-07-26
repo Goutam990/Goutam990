@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Goutam Tiwari</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<h3 align="center">A passionate Full Stack Developer</h3>
 
 ## About Me  
 I am a Computer Science student , with a solid foundation in web development and proficiency in Java and JavaScript . I am currently expanding my expertise by learning the MERN stack and enhancing my skills in tools like Tailwind CSS, React.js, and Node.js to develop dynamic web applications that are both functional and user-friendly. My skill set includes UI/UX design, and I am committed to delivering highly intuitive and responsive digital experiences.
