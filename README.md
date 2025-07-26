@@ -14,7 +14,7 @@ Feel free to connect with me if you'd like to collaborate or discuss innovative 
 
 - 🔬 I’m currently working on **MERN Stack**  
 - 💻 My portfolio [My Portfolio](https://goutam-portfolio-react.vercel.app/)  
-- 📧 How to reach me **goutamt64@gmail.com**  
+- 📧 How to reach me **tiwarigoutam8@gmail.com**  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
