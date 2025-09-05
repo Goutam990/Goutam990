@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack Developer</h3>
 
 ## About Me  
-I am a Computer Science student , with a solid foundation in web development and proficiency in Java and JavaScript . I am currently expanding my expertise by learning the MERN stack and enhancing my skills in tools like Tailwind CSS, React.js, and Node.js to develop dynamic web applications that are both functional and user-friendly. My skill set includes UI/UX design, and I am committed to delivering highly intuitive and responsive digital experiences.
+I am a Junior Software Engineer with a strong foundation in web development and proficiency in Java, JavaScript, and C#. Currently, I am expanding my expertise in ASP.NET alongside modern technologies like the MERN stack, React.js, Node.js, and Tailwind CSS to build scalable, responsive, and user-friendly applications.
 
 As a fast learner and team leader, I thrive in collaborative environments and enjoy driving projects to successful outcomes. I’ve led multiple academic and internship projects, including Jiobasket , a grocery price comparison platform and MovieBuzz, a movie booking and information system built using full-stack technologies. These experiences have helped me sharpen my skills in frontend-backend integration, REST APIs, and project structuring.
 
@@ -12,7 +12,7 @@ I approach development with the same attention to detail and problem-solving min
 
 Feel free to connect with me if you'd like to collaborate or discuss innovative projects.
 
-- 🔬 I’m currently working on **MERN Stack**  
+- 🔬 I’m currently working on **ASP.NET** Core to build scalable web applications. 
 - 💻 My portfolio [My Portfolio](https://goutam-portfolio-react.vercel.app/)  
 - 📧 How to reach me **tiwarigoutam8@gmail.com**  
 
