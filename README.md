@@ -17,8 +17,6 @@ Feel free to connect with me if you'd like to collaborate or discuss innovative 
 - 📧 How to reach me **tiwarigoutam8@gmail.com**  
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/goutam-tiwari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="goutam-tiwari" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/goutam-tiwari-3029562a2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="goutam-tiwari" height="30" width="40" /></a>
 </p>
 
